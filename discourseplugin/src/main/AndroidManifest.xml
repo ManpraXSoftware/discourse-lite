@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.manprax.discourseplugin">
+
+    <application>
+        <activity android:name=".discourse_views.DiscourseActivity"
+            android:label="@string/discourse_activity_title"
+            android:theme="@style/AppTheme.NoActionBar"
+            />
+    </application>
+
+</manifest>

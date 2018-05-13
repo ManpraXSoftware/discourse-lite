@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Discourse Plugin</string>
+    <string name="discourse_activity_title">Discussion Categories</string>
+    <string name="filter">Filter</string>
+    <string name="no_content_msg">Content not available yet! Please check back later.</string>
+    <string name="label_done">Done</string>
+</resources>
