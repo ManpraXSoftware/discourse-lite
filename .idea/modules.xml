@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discourse/discourseplugin.iml" filepath="$PROJECT_DIR$/discourse/discourseplugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/discourse-lite.iml" filepath="$PROJECT_DIR$/discourse-lite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/discourseplugin/discourseplugin.iml" filepath="$PROJECT_DIR$/discourseplugin/discourseplugin.iml" />
     </modules>
   </component>
 </project>

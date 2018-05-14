@@ -1,1 +1,1 @@
-include ':app', ':discourseplugin'
+include ':app', ':discourse'
