@@ -63,12 +63,4 @@ public class DiscourseConfig implements Parcelable {
         return apiKey;
     }
 
-    public void createTestConfig(){
-        String baseUrl="http://10.5.50.31:2018/";
-        String api="cdb7475c5eca96a149bf3b81aa4815fe3b871b851f95adcaad704ff8c52d0d22";
-        String username="mac91";
-        this.basUrl = baseUrl;
-        this.userName = username;
-        this.apiKey = api;
-    }
 }
